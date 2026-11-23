@@ -1,0 +1,10 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 12
+-- Longitud de un array JSONB
+-- CONSIGNA:
+-- Buscar peliculas que tengan al menos tres elementos en Special Features.
+-- Mostrar titulo y la cantidad de extras con alias cantidad_extras.
+-- La cantidad debe ser numerica y ordenar de mayor a menor.
+-- Usar una funcion de PostgreSQL que cuente elementos de array JSONB.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu consulta SQL.
