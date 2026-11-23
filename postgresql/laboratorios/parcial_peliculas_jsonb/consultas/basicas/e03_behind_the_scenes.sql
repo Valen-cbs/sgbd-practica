@@ -6,6 +6,11 @@
 -- Usar nombres de salida titulo, descripcion, duracion y caracteristicas.
 -- La duracion debe ser numerica. Ordenar alfabeticamente por titulo.
 -- El filtro debe comprobar un elemento del array JSONB, no un LIKE textual.
---
--- SOLUCION: pendiente, completala vos.
--- TODO: escribir aqui tu SELECT.
+
+SELECT doc ->> 'Title' AS titulo,
+       doc ->> 'Description' AS descripcion,
+       (doc ->> 'Length')::integer AS duracion,
+       doc ->> 'Special Features' AS caracteristicas
+FROM peliculas
+WHERE doc @> '{"Special Features": ["Behind the Scenes"]}'
+ORDER BY titulo;
