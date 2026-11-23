@@ -2,7 +2,7 @@
 
 Todas las consignas están **dentro de cada archivo .js o .sql** (como comentarios). No existe una carpeta separada de enunciados.
 
-## MongoDB — Simulacro 01 (consignas incluidas; ejercicio 08 resuelto)
+## MongoDB — Simulacro 01 (todos los ejercicios 01–10 con solución)
 
 | Ejercicio | Archivo | Estado |
 |---|---|---|
@@ -11,12 +11,14 @@ Todas las consignas están **dentro de cada archivo .js o .sql** (como comentari
 | 03 | [Duración mínima Estrategia](mongodb/consultas/aggregate/s1_e03_duracion_minima_estrategia.js) | **Resuelto** |
 | 04 | [Precio y plataforma](mongodb/consultas/find/s1_e04_juegos_pc_precio_rango.js) | **Resuelto** |
 | 05 (find) | [Top 5 ventas (find)](mongodb/consultas/find/s1_e05_top_cinco_ventas.js) | **Resuelto** |
-| 05 (aggregate) | [Top 5 ventas (aggregate)](mongodb/consultas/aggregate/s1_e05_top_cinco_ventas.js) | Consigna + TODO |
-| 06 | [Cantidad por género](mongodb/consultas/aggregate/s1_e06_cantidad_por_genero.js) | Consigna + TODO |
-| 07 | [Promedio horas Aventura](mongodb/consultas/aggregate/s1_e07_promedio_horas_aventura.js) | Consigna + TODO |
+| 05 (aggregate) | [Top 5 ventas (aggregate)](mongodb/consultas/aggregate/s1_e05_top_cinco_ventas.js) | **Resuelto (segunda forma)** |
+| 06 | [Cantidad por género](mongodb/consultas/aggregate/s1_e06_cantidad_por_genero.js) | **Resuelto** |
+| 07 | [Promedio horas Aventura](mongodb/consultas/aggregate/s1_e07_promedio_horas_aventura.js) | **Resuelto** |
 | 08 | [SOLAR RAID 40 horas](mongodb/consultas/find/s1_e08_solar_raid_40_horas.js) | **Resuelto** |
-| 09 | [Actualizar rayo_sur](mongodb/consultas/update/s1_e09_actualizar_rayo_sur.js) | Consigna + TODO |
-| 10 | [Incrementar stock Acción](mongodb/consultas/update/s1_e10_incrementar_stock_accion.js) | Consigna + TODO |
+| 09 | [Jugadores argentinos y SOLAR RAID](mongodb/consultas/find/s1_e09_jugadores_argentina_solar_raid.js) | **Resuelto** |
+| 10 | [Estadísticas de Acción en PC](mongodb/consultas/aggregate/s1_e10_estadisticas_accion_pc.js) | **Resuelto** |
+
+**Versiones alternativas:** el ejercicio 05 está tanto en `find/` como en `aggregate/`. Los ejercicios 02, 03 y 04 incluyen dos formas correctas dentro de sus archivos.
 
 ## MongoDB — Simulacro 02
 
@@ -39,7 +41,7 @@ Los ejercicios 07-10 de este simulacro aún no tienen consigna asignada; se inco
 | 02 | [Heladeras No Frost](postgresql/consultas/jsonb/e02_heladeras_no_frost.sql) | Corregido |
 | 03 | [Calzado talle 42](postgresql/consultas/jsonb/e03_calzado_talle_42.sql) | Corregido |
 | 04 | [Gaming o trabajo](postgresql/consultas/arrays/e04_gaming_o_trabajo.sql) | Resuelto |
-| 05 | [Gaming y alta gama](postgresql/consultas/arrays/e05_gaming_y_alta_gama.sql) | Corregido |
+| 05 | [Gaming y alta gama](postgresql/consultas/arrays/e05_gaming_y_alta_gama.sql) | **Dos soluciones correctas** |
 | 06 | [Resumen por categoría](postgresql/consultas/sql_general/e06_resumen_por_categoria.sql) | Solución guiada |
 | 07 | [Notebooks GPU](postgresql/consultas/jsonb/e07_notebooks_gpu_rtx.sql) | Resuelto de dos formas |
 | 08 | [Pantalla Hz](postgresql/consultas/jsonb/e08_notebooks_pantalla_hz.sql) | Corregido |
@@ -50,6 +52,13 @@ Los ejercicios 07-10 de este simulacro aún no tienen consigna asignada; se inco
 | 13 | [Comparar GIN](postgresql/consultas/opcionales/e13_indices_gin.sql) | Consigna + TODO |
 | 14 | [GIN arrays](postgresql/consultas/opcionales/e14_explain_analyze.sql) | Consigna + TODO |
 | 15 | [Integrador final](postgresql/consultas/jsonb/e15_integrador_final.sql) | Consigna + TODO |
+
+## Prácticas extra de actualización
+
+Estas consignas provienen de otra tanda de ejercicios, **no** de los ejercicios 09 y 10 del archivo resuelto:
+
+- [Actualizar un jugador (`updateOne`)](mongodb/consultas/update/extra_e01_actualizar_rayo_sur.js) — pendiente.
+- [Incrementar stock (`updateMany`)](mongodb/consultas/update/extra_e02_incrementar_stock_accion.js) — pendiente.
 
 ## Datos originales
 
