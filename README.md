@@ -9,7 +9,7 @@ Repositorio de ejercicios de Sistemas de Gestion de Bases de Datos. **Cada ejerc
 - `mongodb/setup/`: creacion de colecciones, carga con `insertMany()` y verificaciones.
 - `mongodb/consultas/find/`: busquedas con `find()`.
 - `mongodb/consultas/aggregate/`: pipelines con `aggregate()`.
-- `mongodb/consultas/update/`: ejercicios de `updateOne()` y `updateMany()`.
+- `mongodb/consultas/update/`: prácticas adicionales pendientes de `updateOne()` y `updateMany()` (no forman parte del simulacro 01 resuelto).
 - `postgresql/datos/`: catalogo y peliculas JSONL (60 y 24 registros).
 - `postgresql/setup/01_crear_y_cargar.sql`: script original de carga.
 - `postgresql/consultas/jsonb/`, `arrays/`, `sql_general/` y `opcionales/`.
@@ -25,7 +25,7 @@ La carga no duplica documentos si ya hay datos.
 Antes de las consultas, usar `SET search_path TO sgbd_u7_practica, public;`.
 
 ## Estado
-- **MongoDB simulacro 01:** todos los ejercicios tienen la consigna dentro del archivo. El codigo original del alumno falta recuperar, por lo que estan marcados como pendientes; el 05 tiene plantillas para ambas formas.
+- **MongoDB simulacro 01:** **ejercicios 01-10 completos** con el código del archivo original. El 05 incluye `find()` y `aggregate()`; los ejercicios 02, 03 y 04 tienen versiones alternativas válidas. Los ejercicios 09 y 10 son la búsqueda de jugadores de Argentina y las estadísticas de Acción (las actualizaciones están separadas como extra).
 - **MongoDB simulacro 02:** ejercicios 01-05 con codigo corregido; el 06 con consigna y pendiente; 07-10 aun sin consigna asignada.
-- **PostgreSQL:** ejercicios 01-08 con codigo (06: solucion guiada; 07: dos formas); 09-15 con consigna y `TODO`.
+- **PostgreSQL:** ejercicios 01-08 con código (06: solución guiada; 05 y 07: dos formas válidas); 09-15 con consigna y `TODO`.
 - Los archivos de datos y de carga no se modificaron.
