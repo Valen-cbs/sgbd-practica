@@ -1,0 +1,11 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 08
+-- Disponibles para Argentina
+-- CONSIGNA:
+-- Buscar peliculas donde Availability.Streaming sea true y
+-- Availability.Regions incluya el codigo "AR".
+-- Mostrar titulo, categoria y las regiones disponibles.
+-- La informacion esta ANIDADA en el objeto Availability.
+-- Ordenar por titulo ascendente.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu SELECT.
