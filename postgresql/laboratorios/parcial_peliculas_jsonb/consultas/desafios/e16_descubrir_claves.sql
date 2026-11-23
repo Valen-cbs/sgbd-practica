@@ -1,0 +1,10 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 16
+-- Descubrimiento de esquema (opcional)
+-- CONSIGNA:
+-- Listar las claves de primer nivel encontradas en doc JSONB
+-- en cualquier pelicula de la tabla, sin repetirlas.
+-- Devolver una sola columna con alias clave, ordenada alfabeticamente.
+-- Pista: una funcion nativa permite enumerar claves de un objeto JSONB.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu consulta SQL.
