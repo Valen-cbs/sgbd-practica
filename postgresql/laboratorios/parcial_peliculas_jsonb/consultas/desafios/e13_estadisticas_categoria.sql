@@ -1,0 +1,11 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 13
+-- Estadisticas por categoria (opcional)
+-- CONSIGNA:
+-- Agrupar las peliculas segun doc.Category.
+-- Mostrar categoria, cantidad de peliculas y promedio de Length
+-- como duracion_promedio, redondeado a dos decimales.
+-- Ordenar por cantidad descendente y luego categoria ascendente.
+-- Desafio opcional: requiere GROUP BY y conversion numerica.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu consulta SQL.
