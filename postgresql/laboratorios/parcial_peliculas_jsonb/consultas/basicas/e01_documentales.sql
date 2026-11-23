@@ -1,0 +1,9 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 01
+-- Documentales y orden alfabetico
+-- CONSIGNA:
+-- Mostrar titulo (Title) y duracion (Length) de peliculas de categoria Documentary.
+-- La duracion debe mostrarse como entero. Ordenar alfabeticamente por titulo.
+-- Usar SELECT sobre doc JSONB y filtrar por Category.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu SELECT.
