@@ -1,0 +1,721 @@
+[
+  {
+    "titulo": "NEBULA QUEST",
+    "genero": "RPG",
+    "estudio": "Orion Forge",
+    "precio": 54,
+    "horasCampania": 48,
+    "puntaje": 9.2,
+    "plataformas": [
+      "PC",
+      "PS5"
+    ],
+    "ventas": 180000,
+    "stock": 13,
+    "lanzamiento": 2024,
+    "etiquetas": [
+      "espacial",
+      "historia"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "DRAGON ARCHIVE",
+    "genero": "RPG",
+    "estudio": "Silver Fox",
+    "precio": 49,
+    "horasCampania": 62,
+    "puntaje": 8.7,
+    "plataformas": [
+      "PC",
+      "Xbox"
+    ],
+    "ventas": 132000,
+    "stock": 7,
+    "lanzamiento": 2023,
+    "etiquetas": [
+      "fantasia",
+      "historia"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "CRYSTAL LEGENDS",
+    "genero": "RPG",
+    "estudio": "Moss Studio",
+    "precio": 39,
+    "horasCampania": 36,
+    "puntaje": 8.3,
+    "plataformas": [
+      "PC",
+      "Switch"
+    ],
+    "ventas": 92000,
+    "stock": 11,
+    "lanzamiento": 2022,
+    "etiquetas": [
+      "fantasia",
+      "exploracion"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "DUSK KINGDOM",
+    "genero": "RPG",
+    "estudio": "Moon Harbor",
+    "precio": 65,
+    "horasCampania": 75,
+    "puntaje": 9.5,
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "ventas": 241000,
+    "stock": 5,
+    "lanzamiento": 2025,
+    "etiquetas": [
+      "fantasia",
+      "desafiante"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "ECHOES OF TERRA",
+    "genero": "RPG",
+    "estudio": "Orion Forge",
+    "precio": 35,
+    "horasCampania": 29,
+    "puntaje": 7.9,
+    "plataformas": [
+      "PC",
+      "PS5"
+    ],
+    "ventas": 85000,
+    "stock": 18,
+    "lanzamiento": 2021,
+    "etiquetas": [
+      "espacial",
+      "exploracion"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "IRON CHRONICLES",
+    "genero": "RPG",
+    "estudio": "Silver Fox",
+    "precio": 45,
+    "horasCampania": 55,
+    "puntaje": 8.8,
+    "plataformas": [
+      "PC"
+    ],
+    "ventas": 119000,
+    "stock": 12,
+    "lanzamiento": 2024,
+    "etiquetas": [
+      "historia",
+      "estrategia"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "SOLAR RAID",
+    "genero": "Accion",
+    "estudio": "Red Comet",
+    "precio": 59,
+    "horasCampania": 14,
+    "puntaje": 9.1,
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "ventas": 320000,
+    "stock": 8,
+    "lanzamiento": 2025,
+    "etiquetas": [
+      "espacial",
+      "cooperativo"
+    ],
+    "multijugador": true
+  },
+  {
+    "titulo": "NIGHT SHIFT",
+    "genero": "Accion",
+    "estudio": "Red Comet",
+    "precio": 29,
+    "horasCampania": 9,
+    "puntaje": 7.5,
+    "plataformas": [
+      "PC",
+      "Switch"
+    ],
+    "ventas": 74000,
+    "stock": 3,
+    "lanzamiento": 2022,
+    "etiquetas": [
+      "sigilo",
+      "urbano"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "TITAN STRIKE",
+    "genero": "Accion",
+    "estudio": "Glacier Works",
+    "precio": 69,
+    "horasCampania": 22,
+    "puntaje": 9.0,
+    "plataformas": [
+      "PS5",
+      "Xbox"
+    ],
+    "ventas": 288000,
+    "stock": 6,
+    "lanzamiento": 2026,
+    "etiquetas": [
+      "multijugador",
+      "combate"
+    ],
+    "multijugador": true
+  },
+  {
+    "titulo": "PIXEL RUSH",
+    "genero": "Accion",
+    "estudio": "Indie Lift",
+    "precio": 19,
+    "horasCampania": 6,
+    "puntaje": 8.2,
+    "plataformas": [
+      "PC",
+      "Switch"
+    ],
+    "ventas": 125000,
+    "stock": 25,
+    "lanzamiento": 2020,
+    "etiquetas": [
+      "retro",
+      "rapido"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "VOID RUNNER",
+    "genero": "Accion",
+    "estudio": "Moon Harbor",
+    "precio": 42,
+    "horasCampania": 18,
+    "puntaje": 8.5,
+    "plataformas": [
+      "PC",
+      "PS5"
+    ],
+    "ventas": 156000,
+    "stock": 9,
+    "lanzamiento": 2023,
+    "etiquetas": [
+      "espacial",
+      "sigilo"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "STORM REBELLION",
+    "genero": "Accion",
+    "estudio": "Glacier Works",
+    "precio": 55,
+    "horasCampania": 25,
+    "puntaje": 8.9,
+    "plataformas": [
+      "PC",
+      "Xbox"
+    ],
+    "ventas": 202000,
+    "stock": 15,
+    "lanzamiento": 2024,
+    "etiquetas": [
+      "cooperativo",
+      "combate"
+    ],
+    "multijugador": true
+  },
+  {
+    "titulo": "CITADEL COMMAND",
+    "genero": "Estrategia",
+    "estudio": "North Grid",
+    "precio": 44,
+    "horasCampania": 40,
+    "puntaje": 8.6,
+    "plataformas": [
+      "PC"
+    ],
+    "ventas": 110000,
+    "stock": 12,
+    "lanzamiento": 2023,
+    "etiquetas": [
+      "tactico",
+      "historico"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "QUANTUM CHESS",
+    "genero": "Estrategia",
+    "estudio": "Indie Lift",
+    "precio": 15,
+    "horasCampania": 8,
+    "puntaje": 7.8,
+    "plataformas": [
+      "PC",
+      "Mobile"
+    ],
+    "ventas": 87000,
+    "stock": 21,
+    "lanzamiento": 2022,
+    "etiquetas": [
+      "puzzle",
+      "tactico"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "EMPIRE FRONTIER",
+    "genero": "Estrategia",
+    "estudio": "North Grid",
+    "precio": 58,
+    "horasCampania": 65,
+    "puntaje": 9.0,
+    "plataformas": [
+      "PC",
+      "Xbox"
+    ],
+    "ventas": 173000,
+    "stock": 4,
+    "lanzamiento": 2025,
+    "etiquetas": [
+      "historico",
+      "gestion"
+    ],
+    "multijugador": true
+  },
+  {
+    "titulo": "DEEP TACTICS",
+    "genero": "Estrategia",
+    "estudio": "Moss Studio",
+    "precio": 32,
+    "horasCampania": 27,
+    "puntaje": 8.1,
+    "plataformas": [
+      "PC",
+      "Switch"
+    ],
+    "ventas": 96000,
+    "stock": 10,
+    "lanzamiento": 2021,
+    "etiquetas": [
+      "tactico",
+      "por turnos"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "STAR COLONY WARS",
+    "genero": "Estrategia",
+    "estudio": "Orion Forge",
+    "precio": 51,
+    "horasCampania": 52,
+    "puntaje": 8.8,
+    "plataformas": [
+      "PC"
+    ],
+    "ventas": 141000,
+    "stock": 7,
+    "lanzamiento": 2024,
+    "etiquetas": [
+      "espacial",
+      "gestion"
+    ],
+    "multijugador": true
+  },
+  {
+    "titulo": "BATTLE MAPS",
+    "genero": "Estrategia",
+    "estudio": "Indie Lift",
+    "precio": 22,
+    "horasCampania": 12,
+    "puntaje": 7.7,
+    "plataformas": [
+      "PC",
+      "Mobile"
+    ],
+    "ventas": 68000,
+    "stock": 19,
+    "lanzamiento": 2020,
+    "etiquetas": [
+      "puzzle",
+      "por turnos"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "FOREST WHISPERS",
+    "genero": "Aventura",
+    "estudio": "Moss Studio",
+    "precio": 38,
+    "horasCampania": 19,
+    "puntaje": 8.4,
+    "plataformas": [
+      "PC",
+      "Switch"
+    ],
+    "ventas": 101000,
+    "stock": 17,
+    "lanzamiento": 2023,
+    "etiquetas": [
+      "naturaleza",
+      "historia"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "LOST LIGHTHOUSE",
+    "genero": "Aventura",
+    "estudio": "Moon Harbor",
+    "precio": 33,
+    "horasCampania": 13,
+    "puntaje": 8.0,
+    "plataformas": [
+      "PC",
+      "PS5"
+    ],
+    "ventas": 89000,
+    "stock": 6,
+    "lanzamiento": 2021,
+    "etiquetas": [
+      "misterio",
+      "historia"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "SKYBOUND ISLANDS",
+    "genero": "Aventura",
+    "estudio": "Silver Fox",
+    "precio": 57,
+    "horasCampania": 31,
+    "puntaje": 9.1,
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "ventas": 190000,
+    "stock": 14,
+    "lanzamiento": 2025,
+    "etiquetas": [
+      "exploracion",
+      "historia"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "THE CLOCKWORK PATH",
+    "genero": "Aventura",
+    "estudio": "Indie Lift",
+    "precio": 24,
+    "horasCampania": 11,
+    "puntaje": 8.2,
+    "plataformas": [
+      "PC",
+      "Switch"
+    ],
+    "ventas": 118000,
+    "stock": 20,
+    "lanzamiento": 2022,
+    "etiquetas": [
+      "puzzle",
+      "misterio"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "OCEAN MEMORY",
+    "genero": "Aventura",
+    "estudio": "Red Comet",
+    "precio": 41,
+    "horasCampania": 23,
+    "puntaje": 8.6,
+    "plataformas": [
+      "PC",
+      "Xbox"
+    ],
+    "ventas": 121000,
+    "stock": 8,
+    "lanzamiento": 2024,
+    "etiquetas": [
+      "exploracion",
+      "misterio"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "SANDSTONE TRAIL",
+    "genero": "Aventura",
+    "estudio": "Glacier Works",
+    "precio": 48,
+    "horasCampania": 28,
+    "puntaje": 8.7,
+    "plataformas": [
+      "PS5",
+      "Xbox"
+    ],
+    "ventas": 137000,
+    "stock": 13,
+    "lanzamiento": 2026,
+    "etiquetas": [
+      "exploracion",
+      "historia"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "CITY ARCHITECT",
+    "genero": "Simulacion",
+    "estudio": "North Grid",
+    "precio": 46,
+    "horasCampania": 45,
+    "puntaje": 8.8,
+    "plataformas": [
+      "PC"
+    ],
+    "ventas": 148000,
+    "stock": 9,
+    "lanzamiento": 2023,
+    "etiquetas": [
+      "construccion",
+      "gestion"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "FARM NOVA",
+    "genero": "Simulacion",
+    "estudio": "Moss Studio",
+    "precio": 25,
+    "horasCampania": 70,
+    "puntaje": 8.1,
+    "plataformas": [
+      "PC",
+      "Switch"
+    ],
+    "ventas": 230000,
+    "stock": 30,
+    "lanzamiento": 2022,
+    "etiquetas": [
+      "granja",
+      "relajante"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "TRAIN DEPOT",
+    "genero": "Simulacion",
+    "estudio": "North Grid",
+    "precio": 37,
+    "horasCampania": 34,
+    "puntaje": 8.3,
+    "plataformas": [
+      "PC"
+    ],
+    "ventas": 98000,
+    "stock": 13,
+    "lanzamiento": 2024,
+    "etiquetas": [
+      "transporte",
+      "gestion"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "COFFEE PLANET",
+    "genero": "Simulacion",
+    "estudio": "Indie Lift",
+    "precio": 18,
+    "horasCampania": 16,
+    "puntaje": 7.6,
+    "plataformas": [
+      "PC",
+      "Mobile"
+    ],
+    "ventas": 112000,
+    "stock": 17,
+    "lanzamiento": 2021,
+    "etiquetas": [
+      "gestion",
+      "relajante"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "DEEP SEA LAB",
+    "genero": "Simulacion",
+    "estudio": "Orion Forge",
+    "precio": 62,
+    "horasCampania": 55,
+    "puntaje": 9.0,
+    "plataformas": [
+      "PC",
+      "PS5"
+    ],
+    "ventas": 167000,
+    "stock": 7,
+    "lanzamiento": 2025,
+    "etiquetas": [
+      "ciencia",
+      "gestion"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "AIRPORT SHIFT",
+    "genero": "Simulacion",
+    "estudio": "Silver Fox",
+    "precio": 43,
+    "horasCampania": 39,
+    "puntaje": 8.0,
+    "plataformas": [
+      "PC",
+      "Xbox"
+    ],
+    "ventas": 88000,
+    "stock": 6,
+    "lanzamiento": 2024,
+    "etiquetas": [
+      "transporte",
+      "gestion"
+    ],
+    "multijugador": false
+  },
+  {
+    "titulo": "FINAL LAP",
+    "genero": "Deportes",
+    "estudio": "Red Comet",
+    "precio": 52,
+    "horasCampania": 10,
+    "puntaje": 8.5,
+    "plataformas": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "ventas": 271000,
+    "stock": 22,
+    "lanzamiento": 2025,
+    "etiquetas": [
+      "carreras",
+      "multijugador"
+    ],
+    "multijugador": true
+  },
+  {
+    "titulo": "STREET LEAGUE",
+    "genero": "Deportes",
+    "estudio": "Glacier Works",
+    "precio": 59,
+    "horasCampania": 8,
+    "puntaje": 8.2,
+    "plataformas": [
+      "PS5",
+      "Xbox"
+    ],
+    "ventas": 215000,
+    "stock": 11,
+    "lanzamiento": 2024,
+    "etiquetas": [
+      "futbol",
+      "multijugador"
+    ],
+    "multijugador": true
+  },
+  {
+    "titulo": "SNOW PEAK",
+    "genero": "Deportes",
+    "estudio": "Silver Fox",
+    "precio": 34,
+    "horasCampania": 12,
+    "puntaje": 7.9,
+    "plataformas": [
+      "PC",
+      "Switch"
+    ],
+    "ventas": 105000,
+    "stock": 15,
+    "lanzamiento": 2022,
+    "etiquetas": [
+      "invierno",
+      "carreras"
+    ],
+    "multijugador": true
+  },
+  {
+    "titulo": "COURT HEROES",
+    "genero": "Deportes",
+    "estudio": "Indie Lift",
+    "precio": 28,
+    "horasCampania": 7,
+    "puntaje": 8.1,
+    "plataformas": [
+      "PC",
+      "Mobile"
+    ],
+    "ventas": 97000,
+    "stock": 18,
+    "lanzamiento": 2023,
+    "etiquetas": [
+      "basquet",
+      "multijugador"
+    ],
+    "multijugador": true
+  },
+  {
+    "titulo": "RALLY SPIRIT",
+    "genero": "Deportes",
+    "estudio": "Red Comet",
+    "precio": 44,
+    "horasCampania": 15,
+    "puntaje": 8.6,
+    "plataformas": [
+      "PC",
+      "PS5"
+    ],
+    "ventas": 164000,
+    "stock": 9,
+    "lanzamiento": 2021,
+    "etiquetas": [
+      "carreras",
+      "simulador"
+    ],
+    "multijugador": true
+  },
+  {
+    "titulo": "WAVE SURF",
+    "genero": "Deportes",
+    "estudio": "Moss Studio",
+    "precio": 21,
+    "horasCampania": 6,
+    "puntaje": 7.7,
+    "plataformas": [
+      "PC",
+      "Switch"
+    ],
+    "ventas": 81000,
+    "stock": 19,
+    "lanzamiento": 2020,
+    "etiquetas": [
+      "agua",
+      "relajante"
+    ],
+    "multijugador": false
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "alias": "rayo_sur",
+    "pais": "Argentina",
+    "nivel": 27,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "NEBULA QUEST",
+        "horasJugadas": 56,
+        "completado": true
+      },
+      {
+        "titulo": "SOLAR RAID",
+        "horasJugadas": 72,
+        "completado": false
+      },
+      {
+        "titulo": "CITY ARCHITECT",
+        "horasJugadas": 20,
+        "completado": false
+      },
+      {
+        "titulo": "DRAGON ARCHIVE",
+        "horasJugadas": 4,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "pixel_fox",
+    "pais": "Argentina",
+    "nivel": 35,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "NEBULA QUEST",
+        "horasJugadas": 12,
+        "completado": false
+      },
+      {
+        "titulo": "THE CLOCKWORK PATH",
+        "horasJugadas": 26,
+        "completado": true
+      },
+      {
+        "titulo": "PIXEL RUSH",
+        "horasJugadas": 35,
+        "completado": true
+      },
+      {
+        "titulo": "FOREST WHISPERS",
+        "horasJugadas": 17,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "luna_azul",
+    "pais": "Chile",
+    "nivel": 42,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "DUSK KINGDOM",
+        "horasJugadas": 81,
+        "completado": true
+      },
+      {
+        "titulo": "SOLAR RAID",
+        "horasJugadas": 48,
+        "completado": true
+      },
+      {
+        "titulo": "OCEAN MEMORY",
+        "horasJugadas": 33,
+        "completado": true
+      }
+    ]
+  },
+  {
+    "alias": "mate_andes",
+    "pais": "Argentina",
+    "nivel": 19,
+    "activo": false,
+    "biblioteca": [
+      {
+        "titulo": "SOLAR RAID",
+        "horasJugadas": 9,
+        "completado": false
+      },
+      {
+        "titulo": "PIXEL RUSH",
+        "horasJugadas": 18,
+        "completado": true
+      },
+      {
+        "titulo": "EMPIRE FRONTIER",
+        "horasJugadas": 71,
+        "completado": true
+      }
+    ]
+  },
+  {
+    "alias": "astro_nico",
+    "pais": "Uruguay",
+    "nivel": 51,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "NEBULA QUEST",
+        "horasJugadas": 105,
+        "completado": true
+      },
+      {
+        "titulo": "STAR COLONY WARS",
+        "horasJugadas": 65,
+        "completado": true
+      },
+      {
+        "titulo": "SOLAR RAID",
+        "horasJugadas": 30,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "valen_gamer",
+    "pais": "Argentina",
+    "nivel": 24,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "SKYBOUND ISLANDS",
+        "horasJugadas": 43,
+        "completado": true
+      },
+      {
+        "titulo": "DRAGON ARCHIVE",
+        "horasJugadas": 68,
+        "completado": true
+      },
+      {
+        "titulo": "FINAL LAP",
+        "horasJugadas": 17,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "turbo_max",
+    "pais": "Paraguay",
+    "nivel": 16,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "SOLAR RAID",
+        "horasJugadas": 51,
+        "completado": false
+      },
+      {
+        "titulo": "FINAL LAP",
+        "horasJugadas": 96,
+        "completado": true
+      },
+      {
+        "titulo": "STREET LEAGUE",
+        "horasJugadas": 41,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "flor_craft",
+    "pais": "Argentina",
+    "nivel": 44,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "FARM NOVA",
+        "horasJugadas": 120,
+        "completado": true
+      },
+      {
+        "titulo": "CITY ARCHITECT",
+        "horasJugadas": 75,
+        "completado": true
+      },
+      {
+        "titulo": "DEEP SEA LAB",
+        "horasJugadas": 34,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "dani_quest",
+    "pais": "Chile",
+    "nivel": 31,
+    "activo": false,
+    "biblioteca": [
+      {
+        "titulo": "NEBULA QUEST",
+        "horasJugadas": 37,
+        "completado": false
+      },
+      {
+        "titulo": "LOST LIGHTHOUSE",
+        "horasJugadas": 14,
+        "completado": true
+      },
+      {
+        "titulo": "CITADEL COMMAND",
+        "horasJugadas": 63,
+        "completado": true
+      }
+    ]
+  },
+  {
+    "alias": "cami_bits",
+    "pais": "Argentina",
+    "nivel": 28,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "SOLAR RAID",
+        "horasJugadas": 22,
+        "completado": false
+      },
+      {
+        "titulo": "TITAN STRIKE",
+        "horasJugadas": 65,
+        "completado": false
+      },
+      {
+        "titulo": "NIGHT SHIFT",
+        "horasJugadas": 10,
+        "completado": true
+      }
+    ]
+  },
+  {
+    "alias": "otto_arcade",
+    "pais": "Brasil",
+    "nivel": 33,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "NEBULA QUEST",
+        "horasJugadas": 44,
+        "completado": true
+      },
+      {
+        "titulo": "RALLY SPIRIT",
+        "horasJugadas": 48,
+        "completado": true
+      },
+      {
+        "titulo": "QUANTUM CHESS",
+        "horasJugadas": 7,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "star_mica",
+    "pais": "Argentina",
+    "nivel": 49,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "SOLAR RAID",
+        "horasJugadas": 77,
+        "completado": true
+      },
+      {
+        "titulo": "NEBULA QUEST",
+        "horasJugadas": 70,
+        "completado": true
+      },
+      {
+        "titulo": "VOID RUNNER",
+        "horasJugadas": 26,
+        "completado": true
+      }
+    ]
+  },
+  {
+    "alias": "mar_plata",
+    "pais": "Argentina",
+    "nivel": 14,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "OCEAN MEMORY",
+        "horasJugadas": 28,
+        "completado": true
+      },
+      {
+        "titulo": "WAVE SURF",
+        "horasJugadas": 39,
+        "completado": true
+      },
+      {
+        "titulo": "COURT HEROES",
+        "horasJugadas": 22,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "gus_strategy",
+    "pais": "Uruguay",
+    "nivel": 38,
+    "activo": false,
+    "biblioteca": [
+      {
+        "titulo": "EMPIRE FRONTIER",
+        "horasJugadas": 92,
+        "completado": true
+      },
+      {
+        "titulo": "DEEP TACTICS",
+        "horasJugadas": 35,
+        "completado": true
+      },
+      {
+        "titulo": "BATTLE MAPS",
+        "horasJugadas": 12,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "kira_norte",
+    "pais": "Chile",
+    "nivel": 47,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "NEBULA QUEST",
+        "horasJugadas": 58,
+        "completado": true
+      },
+      {
+        "titulo": "CRYSTAL LEGENDS",
+        "horasJugadas": 47,
+        "completado": true
+      },
+      {
+        "titulo": "TRAIN DEPOT",
+        "horasJugadas": 11,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "jota_play",
+    "pais": "Argentina",
+    "nivel": 20,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "SOLAR RAID",
+        "horasJugadas": 55,
+        "completado": true
+      },
+      {
+        "titulo": "STAR COLONY WARS",
+        "horasJugadas": 62,
+        "completado": true
+      },
+      {
+        "titulo": "FARM NOVA",
+        "horasJugadas": 6,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "tomi_wave",
+    "pais": "Uruguay",
+    "nivel": 23,
+    "activo": true,
+    "biblioteca": [
+      {
+        "titulo": "STREET LEAGUE",
+        "horasJugadas": 45,
+        "completado": false
+      },
+      {
+        "titulo": "WAVE SURF",
+        "horasJugadas": 21,
+        "completado": true
+      },
+      {
+        "titulo": "RALLY SPIRIT",
+        "horasJugadas": 23,
+        "completado": false
+      }
+    ]
+  },
+  {
+    "alias": "cielo_pixel",
+    "pais": "Paraguay",
+    "nivel": 37,
+    "activo": false,
+    "biblioteca": [
+      {
+        "titulo": "IRON CHRONICLES",
+        "horasJugadas": 61,
+        "completado": true
+      },
+      {
+        "titulo": "SANDSTONE TRAIL",
+        "horasJugadas": 30,
+        "completado": true
+      },
+      {
+        "titulo": "AIRPORT SHIFT",
+        "horasJugadas": 44,
+        "completado": true
+      }
+    ]
+  }
+]
