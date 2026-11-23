@@ -1,0 +1,9 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 02
+-- Dramas de al menos 120 minutos
+-- CONSIGNA:
+-- Buscar peliculas cuya Category sea "Drama" y Length >= 120.
+-- Mostrar titulo, categoria y duracion (como numero).
+-- Ordenar por duracion de mayor a menor.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu SELECT.
