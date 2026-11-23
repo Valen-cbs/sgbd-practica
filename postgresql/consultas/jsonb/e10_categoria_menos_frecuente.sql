@@ -1,0 +1,8 @@
+-- Unidad 7 - Ejercicio 10 - Categoria menos frecuente
+-- CONSIGNA:
+-- Encontrar la categoria de peliculas con menor cantidad de documentos.
+-- Mostrar categoria y cantidad. Si hay empate, ordenar alfabeticamente
+-- y devolver una sola categoria.
+--
+-- SOLUCION: pendiente de resolver.
+-- TODO: escribir aqui la consulta SQL.

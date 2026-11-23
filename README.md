@@ -1,33 +1,31 @@
 # SGBD - Practicas de MongoDB y PostgreSQL
 
-## [📚 ABRIR CONSULTAS RESUELTAS (con codigo)](CONSULTAS_RESUELTAS.md)
+## [📚 Abrir indice de ejercicios (resueltos y pendientes)](CONSULTAS_RESUELTAS.md)
 
-**Acceso directo a las 13 soluciones cargadas**, separadas por motor y ejercicio. Los archivos del primer simulacro de MongoDB siguen pendientes de recuperacion, no estan llenos de codigo.
-
-Repositorio de ejercicios de Sistemas de Gestion de Bases de Datos (Unidad 7 y simulacros).
-Se conserva **una consulta por archivo** con el **enunciado dentro del archivo como comentario**, seguido por la solucion.
+Repositorio de ejercicios de Sistemas de Gestion de Bases de Datos. **Cada ejercicio tiene su consigna como comentario dentro del mismo archivo de codigo**. Debajo aparece la consulta (si ya fue recuperada) o un marcador `TODO` (si esta pendiente). **No hay carpetas `enunciados/`.**
 
 ## Estructura
-
 - `mongodb/datos/`: `juegos.json` (36 documentos) y `jugadores.json` (18).
-- `mongodb/setup/`: creacion de colecciones, carga original con `insertMany()` y verificaciones.
-- `mongodb/consultas/find/`: consultas con `find()`, proyeccion, `sort()` y `limit()`.
-- `mongodb/consultas/aggregate/`: pipelines con `$match`, `$group`, etc.
-- `postgresql/datos/`: copias JSONL del catalogo (60 productos) y peliculas (24).
-- `postgresql/setup/01_crear_y_cargar.sql`: script SQL original, con la estructura y registros originales.
-- `postgresql/consultas/jsonb/`, `arrays/`, `sql_general/`: consultas SQL organizadas por tema.
+- `mongodb/setup/`: creacion de colecciones, carga con `insertMany()` y verificaciones.
+- `mongodb/consultas/find/`: busquedas con `find()`.
+- `mongodb/consultas/aggregate/`: pipelines con `aggregate()`.
+- `mongodb/consultas/update/`: ejercicios de `updateOne()` y `updateMany()`.
+- `postgresql/datos/`: catalogo y peliculas JSONL (60 y 24 registros).
+- `postgresql/setup/01_crear_y_cargar.sql`: script original de carga.
+- `postgresql/consultas/jsonb/`, `arrays/`, `sql_general/` y `opcionales/`.
 
 ## Como ejecutar
 
-**MongoDB:** en `mongosh`, seleccionar `use sgbd_practica`. Para cargar desde cero, ejecutar primero `mongodb/setup/01_crear_colecciones.js` y luego `mongodb/setup/02_insert_many.js`; la carga rechaza colecciones no vacias para evitar duplicados.
+**MongoDB:** seleccionar `use sgbd_practica` en mongosh. Para cargar desde cero,
+ejecutar `mongodb/setup/01_crear_colecciones.js` y luego `mongodb/setup/02_insert_many.js`.
+La carga no duplica documentos si ya hay datos.
 
-**PostgreSQL:** desde `psql`, ejecutar `postgresql/setup/01_crear_y_cargar.sql`. **Cuidado:** este script recrea el esquema `sgbd_u7_practica` y sus tablas. Antes de ejecutar consultas, utilizar `SET search_path TO sgbd_u7_practica, public;`.
+**PostgreSQL:** ejecutar `postgresql/setup/01_crear_y_cargar.sql` en psql.
+**Cuidado:** recrea el esquema `sgbd_u7_practica` y borra sus tablas anteriores.
+Antes de las consultas, usar `SET search_path TO sgbd_u7_practica, public;`.
 
-## Estado del codigo
-
-- MongoDB, simulacro 02: respuestas originales revisadas de ejercicios **01-05**. El 05 incluye el `$sort` faltante. Los ejercicios 06-10 siguen pendientes.
-- PostgreSQL: respuestas revisadas de ejercicios **01-05, 07 y 08**. El 07 contiene **dos soluciones** validas. El 06 fue resuelto conjuntamente con el asistente y esta identificado como tal.
-- MongoDB, simulacro 01: los archivos se conservan como plantillas porque en el historial disponible **no esta el codigo original del alumno** de ese simulacro. Para conservar su estilo real, se completaran al aportar el archivo de VS Code o las respuestas originales.
-- PostgreSQL, ejercicios 09-15: pendientes de resolver.
-
-No se han modificado los datasets de practica al completar las consultas.
+## Estado
+- **MongoDB simulacro 01:** todos los ejercicios tienen la consigna dentro del archivo. El codigo original del alumno falta recuperar, por lo que estan marcados como pendientes; el 05 tiene plantillas para ambas formas.
+- **MongoDB simulacro 02:** ejercicios 01-05 con codigo corregido; el 06 con consigna y pendiente; 07-10 aun sin consigna asignada.
+- **PostgreSQL:** ejercicios 01-08 con codigo (06: solucion guiada; 07: dos formas); 09-15 con consigna y `TODO`.
+- Los archivos de datos y de carga no se modificaron.

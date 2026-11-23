@@ -1,0 +1,9 @@
+-- Unidad 7 - Ejercicio 14 - GIN en arrays TEXT[]
+-- CONSIGNA:
+-- Crear indice GIN sobre la columna tags; verificar su existencia
+-- consultando pg_indexes u otro catalogo de PostgreSQL.
+-- Ejecutar EXPLAIN (ANALYZE, BUFFERS) de una consulta con
+-- tags @> ARRAY['hogar']; indicar si usa indice o Seq Scan.
+--
+-- SOLUCION: pendiente de resolver.
+-- TODO: escribir aqui la consulta SQL.

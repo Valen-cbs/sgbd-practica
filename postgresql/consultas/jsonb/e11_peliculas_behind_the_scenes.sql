@@ -1,0 +1,9 @@
+-- Unidad 7 - Ejercicio 11 - Caracteristicas especiales
+-- CONSIGNA:
+-- Mostrar titulo, descripcion, duracion y caracteristicas de peliculas
+-- cuyo array JSONB Special Features contenga "Behind the Scenes".
+-- La duracion debe ser un entero. Ordenar por titulo.
+-- Extraer los valores desde el documento doc JSONB.
+--
+-- SOLUCION: pendiente de resolver.
+-- TODO: escribir aqui la consulta SQL.

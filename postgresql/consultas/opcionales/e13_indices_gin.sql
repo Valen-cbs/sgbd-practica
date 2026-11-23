@@ -1,0 +1,10 @@
+-- Unidad 7 - Ejercicio 13 - EXPLAIN e indice GIN
+-- CONSIGNA:
+-- Sin indices GIN, ejecutar EXPLAIN (ANALYZE, BUFFERS) de una consulta
+-- con atributos @> '{"no_frost": true}'::jsonb; anotar el tipo de scan.
+-- Crear indice GIN sobre atributos con jsonb_path_ops; ejecutar
+-- ANALYZE catalogo y repetir EXPLAIN. Comparar y explicar si persiste
+-- Seq Scan, considerando el tamano de la tabla.
+--
+-- SOLUCION: pendiente de resolver.
+-- TODO: escribir aqui la consulta SQL.

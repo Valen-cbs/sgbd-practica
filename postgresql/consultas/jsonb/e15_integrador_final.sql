@@ -1,0 +1,10 @@
+-- Unidad 7 - Ejercicio 15 - Integrador final
+-- CONSIGNA:
+-- De catalogo, seleccionar productos con precio >= 300000, tags
+-- 'trabajo' O 'gaming', y atributos.ram_gb >= 8 (comparacion numerica).
+-- Agrupar por categoria y mostrar categoria, cantidad, precio_maximo
+-- y precio_promedio redondeado a dos decimales.
+-- Dejar categorias con al menos dos productos; ordenar por promedio descendente.
+--
+-- SOLUCION: pendiente de resolver.
+-- TODO: escribir aqui la consulta SQL.

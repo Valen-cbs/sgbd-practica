@@ -1,0 +1,8 @@
+-- Unidad 7 - Ejercicio 12 - Estadisticas de duracion
+-- CONSIGNA:
+-- Por cada categoria de peliculas, mostrar categoria, cantidad,
+-- duracion_minima, duracion_maxima y duracion_promedio (dos decimales).
+-- Ordenar por duracion_promedio descendente.
+--
+-- SOLUCION: pendiente de resolver.
+-- TODO: escribir aqui la consulta SQL.

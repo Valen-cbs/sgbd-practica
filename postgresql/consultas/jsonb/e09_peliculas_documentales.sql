@@ -1,0 +1,8 @@
+-- Unidad 7 - Ejercicio 09 - Peliculas documentales
+-- CONSIGNA:
+-- De peliculas, mostrar exclusivamente el titulo como columna titulo.
+-- Filtrar doc JSONB cuando Category sea "Documentary".
+-- Ordenar alfabeticamente de A a Z.
+--
+-- SOLUCION: pendiente de resolver.
+-- TODO: escribir aqui la consulta SQL.
