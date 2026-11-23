@@ -9,7 +9,7 @@ Todas las consignas están **dentro de cada archivo .js o .sql** (como comentari
 | 01 | [Buscar jugadores por NEBULA QUEST](mongodb/consultas/find/s1_e01_jugadores_nebula_quest.js) | Consigna + TODO |
 | 02 | [Duración máxima RPG](mongodb/consultas/aggregate/s1_e02_duracion_maxima_rpg.js) | Consigna + TODO |
 | 03 | [Duración mínima Estrategia](mongodb/consultas/aggregate/s1_e03_duracion_minima_estrategia.js) | Consigna + TODO |
-| 04 | [Precio y plataforma](mongodb/consultas/find/s1_e04_juegos_pc_precio_rango.js) | Consigna + TODO |
+| 04 | [Precio y plataforma](mongodb/consultas/find/s1_e04_juegos_pc_precio_rango.js) | **Resuelto** |
 | 05 (find) | [Top 5 ventas (find)](mongodb/consultas/find/s1_e05_top_cinco_ventas.js) | **Resuelto** |
 | 05 (aggregate) | [Top 5 ventas (aggregate)](mongodb/consultas/aggregate/s1_e05_top_cinco_ventas.js) | Consigna + TODO |
 | 06 | [Cantidad por género](mongodb/consultas/aggregate/s1_e06_cantidad_por_genero.js) | Consigna + TODO |
