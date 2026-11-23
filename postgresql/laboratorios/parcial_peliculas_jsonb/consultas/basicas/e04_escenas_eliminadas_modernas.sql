@@ -1,0 +1,10 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 04
+-- Deleted Scenes desde 2020
+-- CONSIGNA:
+-- Obtener peliculas con "Deleted Scenes" en Special Features,
+-- estrenadas en Release Year >= 2020.
+-- Mostrar titulo y anio_estreno (numero); ordenar por anio_estreno descendente.
+-- Resolver la busqueda del elemento del array con el operador JSONB @>.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu SELECT.
