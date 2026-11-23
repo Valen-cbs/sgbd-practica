@@ -2,7 +2,7 @@
 
 Todas las consignas están **dentro de cada archivo .js o .sql** (como comentarios). No existe una carpeta separada de enunciados.
 
-## MongoDB — Simulacro 01 (consigna incluida; falta el código original)
+## MongoDB — Simulacro 01 (consignas incluidas; ejercicio 08 resuelto)
 
 | Ejercicio | Archivo | Estado |
 |---|---|---|
@@ -14,7 +14,7 @@ Todas las consignas están **dentro de cada archivo .js o .sql** (como comentari
 | 05 (aggregate) | [Top 5 ventas (aggregate)](mongodb/consultas/aggregate/s1_e05_top_cinco_ventas.js) | Consigna + TODO |
 | 06 | [Cantidad por género](mongodb/consultas/aggregate/s1_e06_cantidad_por_genero.js) | Consigna + TODO |
 | 07 | [Promedio horas Aventura](mongodb/consultas/aggregate/s1_e07_promedio_horas_aventura.js) | Consigna + TODO |
-| 08 | [SOLAR RAID 40 horas](mongodb/consultas/find/s1_e08_solar_raid_40_horas.js) | Consigna + TODO |
+| 08 | [SOLAR RAID 40 horas](mongodb/consultas/find/s1_e08_solar_raid_40_horas.js) | **Resuelto** |
 | 09 | [Actualizar rayo_sur](mongodb/consultas/update/s1_e09_actualizar_rayo_sur.js) | Consigna + TODO |
 | 10 | [Incrementar stock Acción](mongodb/consultas/update/s1_e10_incrementar_stock_accion.js) | Consigna + TODO |
 
