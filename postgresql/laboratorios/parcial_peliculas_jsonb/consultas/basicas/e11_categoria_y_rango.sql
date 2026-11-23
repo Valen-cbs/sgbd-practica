@@ -1,0 +1,10 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 11
+-- Categoria OR y rango de duracion
+-- CONSIGNA:
+-- Buscar peliculas de Category "Drama" O "Sci-Fi" y Length entre
+-- 100 y 140 minutos (ambos inclusive).
+-- Mostrar titulo, categoria y duracion (como entero).
+-- Ordenar por duracion ascendente y luego titulo.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu consulta SQL.
