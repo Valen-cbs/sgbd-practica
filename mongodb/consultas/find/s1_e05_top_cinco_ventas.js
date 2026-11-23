@@ -3,7 +3,13 @@
 // Obtener los cinco juegos con mayor cantidad de ventas.
 // Ordenar ventas de mayor a menor; mostrar titulo y ventas, sin _id.
 //
-// Esta plantilla es para la version con find(), sort() y limit().
-//
-// SOLUCION: pendiente de recuperar del archivo original del alumno.
-// TODO: pegar la consulta revisada, respetando su estilo.
+// Version con find(), sort() y limit().
+
+db.juegos.find(
+    {},
+    {
+        titulo: 1,
+        ventas: 1,
+        _id: 0
+    }
+).sort({ ventas: -1 }).limit(5);
