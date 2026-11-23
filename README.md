@@ -1,5 +1,9 @@
 # SGBD - Practicas de MongoDB y PostgreSQL
 
+## [📚 ABRIR CONSULTAS RESUELTAS (con codigo)](CONSULTAS_RESUELTAS.md)
+
+**Acceso directo a las 13 soluciones cargadas**, separadas por motor y ejercicio. Los archivos del primer simulacro de MongoDB siguen pendientes de recuperacion, no estan llenos de codigo.
+
 Repositorio de ejercicios de Sistemas de Gestion de Bases de Datos (Unidad 7 y simulacros).
 Se conserva **una consulta por archivo** con el **enunciado dentro del archivo como comentario**, seguido por la solucion.
 
