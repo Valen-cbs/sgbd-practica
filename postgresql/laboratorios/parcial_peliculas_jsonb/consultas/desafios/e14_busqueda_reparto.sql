@@ -1,0 +1,11 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 14
+-- Busqueda dentro del reparto (opcional)
+-- CONSIGNA:
+-- Buscar peliculas cuyo array de objetos Cast contenga un objeto
+-- con Name igual a "Ana Duarte".
+-- Mostrar titulo, categoria y el array Cast.
+-- Algunos documentos no tienen la clave Cast.
+-- Usar contencion JSONB para buscar un objeto dentro de un array.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu consulta SQL.
