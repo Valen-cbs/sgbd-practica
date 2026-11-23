@@ -1,0 +1,10 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 15
+-- Premios y estrenos recientes (opcional)
+-- CONSIGNA:
+-- Buscar peliculas que tengan la clave Awards y Release Year >= 2018.
+-- Mostrar titulo, anio_estreno y premios (JSONB).
+-- Ordenar por anio_estreno de mayor a menor.
+-- Algunas peliculas no tienen Awards; eso no debe generar errores.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu consulta SQL.
