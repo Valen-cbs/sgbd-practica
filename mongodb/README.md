@@ -20,12 +20,15 @@ colecciones no vacias para evitar duplicados.
 
 - `consultas/find/`: consultas `find()`.
 - `consultas/aggregate/`: pipelines con `aggregate()`.
-- `consultas/update/`: `updateOne()` y `updateMany()` (modifican datos).
+- `consultas/update/`: prácticas extra pendientes de `updateOne()` y `updateMany()` (modifican datos).
 
 **Cada archivo contiene su propia consigna como comentario.** Si la solucion
 del alumno todavia no esta disponible, queda marcado `SOLUCION: pendiente`.
 
 En el simulacro 02, ejercicios 01-05, ya estan sus consultas revisadas.
-En el simulacro 01, las plantillas contienen las consignas originales,
-y se completaran al recibir las consultas del alumno.
+En el simulacro 01, los ejercicios **01-10** ya tienen las soluciones recuperadas
+del archivo original del alumno. El ejercicio 05 incluye versiones en `find()`
+y `aggregate()`. Los ejercicios 02, 03 y 04 incluyen alternativas válidas.
+Los ejercicios de `update/` son **prácticas extra pendientes**, distintas
+de los ejercicios 09 y 10 del simulacro resuelto.
 Los ejercicios 07-10 del simulacro 02 aun no tienen consigna definida.
