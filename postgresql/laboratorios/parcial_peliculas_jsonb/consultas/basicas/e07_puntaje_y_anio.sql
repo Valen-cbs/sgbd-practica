@@ -1,0 +1,9 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 07
+-- Puntaje y estreno
+-- CONSIGNA:
+-- Buscar peliculas con Rating >= 8.0 y Release Year >= 2019.
+-- Mostrar titulo, puntaje (numero) y anio_estreno (numero).
+-- Ordenar por puntaje descendente y, ante empate, titulo ascendente.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu SELECT.
