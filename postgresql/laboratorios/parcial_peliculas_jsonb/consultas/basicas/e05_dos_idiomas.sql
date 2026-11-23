@@ -1,0 +1,9 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 05
+-- Dos idiomas simultaneos
+-- CONSIGNA:
+-- Buscar peliculas cuyo array Languages contenga A LA VEZ "Spanish" y "Portuguese".
+-- Mostrar titulo y los idiomas (como JSONB, alias idiomas).
+-- Ordenar por titulo de A a Z.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu SELECT.
