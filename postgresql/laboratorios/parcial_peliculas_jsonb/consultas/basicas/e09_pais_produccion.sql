@@ -1,0 +1,10 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 09
+-- Pais de produccion anidado
+-- CONSIGNA:
+-- Buscar peliculas donde Production.Country sea "Argentina".
+-- Mostrar titulo, pais_produccion y estudio, extrayendo los dos ultimos
+-- desde el objeto anidado Production. Ordenar por titulo.
+-- No usar JOIN ni tablas adicionales.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu consulta SQL.
