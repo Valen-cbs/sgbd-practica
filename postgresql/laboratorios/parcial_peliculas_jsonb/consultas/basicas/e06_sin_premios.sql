@@ -1,0 +1,9 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 06
+-- Propiedad ausente
+-- CONSIGNA:
+-- Buscar peliculas cuyos documentos NO tengan la clave Awards.
+-- Mostrar titulo y categoria, ordenados por titulo ascendente.
+-- Usar un operador de existencia de clave JSONB.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu SELECT.
