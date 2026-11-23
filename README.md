@@ -29,3 +29,11 @@ Antes de las consultas, usar `SET search_path TO sgbd_u7_practica, public;`.
 - **MongoDB simulacro 02:** ejercicios 01-05 con codigo corregido; el 06 con consigna y pendiente; 07-10 aun sin consigna asignada.
 - **PostgreSQL:** ejercicios 01-08 con código (06: solución guiada; 05 y 07: dos formas válidas); 09-15 con consigna y `TODO`.
 - Los archivos de datos y de carga no se modificaron.
+
+## Nuevo laboratorio: películas JSONB (tipo parcial)
+
+[**Abrir laboratorio de películas JSONB**](postgresql/laboratorios/parcial_peliculas_jsonb/README.md): 42 películas ficticias,
+instalación SQL por lotes, copia JSONL y **16 ejercicios con la consigna
+incluida en cada archivo** (12 básicos y 4 desafíos opcionales). Las
+soluciones están vacías para practicar. Se carga en el esquema independiente
+`sgbd_parcial_peliculas` y no cambia los ejercicios previos.
