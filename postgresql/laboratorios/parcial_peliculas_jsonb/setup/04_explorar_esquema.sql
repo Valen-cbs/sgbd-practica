@@ -15,4 +15,4 @@ FROM sgbd_parcial_peliculas.peliculas
 ORDER BY clave;
 
 -- En psql tambien podes ejecutar:
--- \\d sgbd_parcial_peliculas.peliculas
+-- \d sgbd_parcial_peliculas.peliculas
