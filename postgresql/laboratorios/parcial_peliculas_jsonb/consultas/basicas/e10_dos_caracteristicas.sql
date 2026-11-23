@@ -1,0 +1,10 @@
+-- Laboratorio de peliculas JSONB - Ejercicio 10
+-- Dos extras al mismo tiempo
+-- CONSIGNA:
+-- Mostrar titulo y caracteristicas de peliculas que tengan A LA VEZ
+-- "Behind the Scenes" y "Director Commentary" en Special Features.
+-- Las dos cadenas deben encontrarse dentro del mismo array JSONB.
+-- Utilizar contencion JSONB; ordenar por titulo.
+--
+-- SOLUCION: pendiente, completala vos.
+-- TODO: escribir aqui tu consulta SQL.
